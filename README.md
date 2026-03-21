@@ -1,2 +1,3 @@
-# open-news-aggregator-aqd3
-Repository to test GitHub automation for issue management
+# Open News Aggregator Aqd3
+
+A repository to test GitHub automation for issue management.
